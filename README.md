@@ -294,8 +294,6 @@ calender_sync/
 ```
 
 ## Lưu ý bảo mật và giới hạn
-
-- Không commit `.env`, `auth/`, `.venv/` hoặc `store/`.
 - Nếu token từng bị lộ, tạo token mới và cập nhật cả Script Properties lẫn
   `.env`.
 - Web App chạy dưới tài khoản Google của người deploy, nên Sheet và Calendar
