@@ -32,6 +32,8 @@ function autoFill() {
   });
   if (!items.length) return 0;
 
+  deleteAllExtraStudyEvents()
+
   const calendar = CalendarApp.getDefaultCalendar();
   const rangeStart = new Date(Math.min(...items.map(item => item.start.getTime())));
   const rangeEnd = new Date(Math.max(...items.map(item => item.end.getTime())));
@@ -94,4 +96,44 @@ function doPost(e) {
 
 function jsonResponse(body) {
   return ContentService.createTextOutput(JSON.stringify(body)).setMimeType(ContentService.MimeType.JSON);
+}
+
+
+
+function deleteAllExtraStudyEvents() {
+  const CALENDAR_NAME = 'TEN_LICH_TREN_GG_CALENDAR_LUU_LICH_HOC';
+
+  // Chỉnh khoảng thời gian cần xóa.
+  const START_DATE = new Date('2026-08-01T00:00:00+07:00');
+  const END_DATE   = new Date('2026-12-31T23:59:59+07:00');
+
+  const calendars = CalendarApp.getCalendarsByName(CALENDAR_NAME);
+
+  if (calendars.length === 0) {
+    throw new Error(
+      `Không tìm thấy calendar có tên: ${CALENDAR_NAME}`
+    );
+  }
+
+  if (calendars.length > 1) {
+    throw new Error(
+      `Tìm thấy nhiều calendar cùng tên "${CALENDAR_NAME}". ` +
+      'Nên sử dụng Calendar ID để tránh xóa nhầm.'
+    );
+  }
+
+  const calendar = calendars[0];
+  const events = calendar.getEvents(START_DATE, END_DATE);
+
+  console.log(`Tìm thấy ${events.length} sự kiện.`);
+
+  events.forEach(event => {
+    console.log(
+      `Đang xóa: ${event.getTitle()} | ${event.getStartTime()}`
+    );
+
+    event.deleteEvent();
+  });
+
+  console.log(`Đã xóa ${events.length} sự kiện.`);
 }
