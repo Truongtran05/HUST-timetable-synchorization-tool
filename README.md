@@ -237,9 +237,6 @@ Remove-Item -LiteralPath .\auth\office365.json
 .\.venv\Scripts\python.exe .\sync.py
 ```
 
-Không chia sẻ hoặc commit `auth/office365.json`; file này chứa trạng thái đăng
-nhập trình duyệt.
-
 ## Xử lý lỗi thường gặp
 
 ### `Hãy đặt APPS_SCRIPT_URL và EXPORT_TOKEN trong biến môi trường`
