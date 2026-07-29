@@ -1,0 +1,1626 @@
+[
+  {
+    "date": "2026-09-07",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-14",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-21",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-28",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-05",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-12",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-19",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-26",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-09",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-16",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-23",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-30",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-07",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-14",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-21",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-28",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-07",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-14",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-21",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-28",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-05",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-12",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-19",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-26",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-09",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-16",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-23",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-30",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-07",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-14",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-21",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-28",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Tính toán khoa học",
+    "course_code": "IT4110",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-07",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-14",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-21",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-28",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-05",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-12",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-19",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-26",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-09",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-16",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-23",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-30",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-07",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-14",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-21",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-28",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Kỹ thuật phần mềm",
+    "course_code": "IT4082",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-08",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-15",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-22",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-29",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-06",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-13",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-20",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-27",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-10",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-17",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-24",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-01",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-08",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-15",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-22",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-29",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-10",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-17",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-24",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-01",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-08",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-15",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-22",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-10-29",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-12",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-19",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-11-26",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-03",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-10",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-17",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-24",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-12-31",
+    "start_time": "08:25",
+    "end_time": "10:05",
+    "course_name": "Tiếng Nhật 5",
+    "course_code": "JP2126",
+    "location": "D9-502"
+  },
+  {
+    "date": "2026-09-08",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-15",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-22",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-29",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-06",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-13",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-20",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-10-27",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-10",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-17",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-11-24",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-01",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-08",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-15",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-22",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-12-29",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nguyên lý hệ điều hành",
+    "course_code": "IT3070",
+    "location": "D9-306"
+  },
+  {
+    "date": "2026-09-08",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-15",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-22",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-29",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-06",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-13",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-20",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-27",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-10",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-17",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-24",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-01",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-08",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-15",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-22",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-29",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-08",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-15",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-22",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-29",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-06",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-13",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-20",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-10-27",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-10",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-17",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-11-24",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-01",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-08",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-15",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-22",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-12-29",
+    "start_time": "10:15",
+    "end_time": "11:45",
+    "course_name": "Tiếng Nhật chuyên ngành 1",
+    "course_code": "JP3110",
+    "location": "C7-213"
+  },
+  {
+    "date": "2026-09-09",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-09-16",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-09-23",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-09-30",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-10-07",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-10-14",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-10-21",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-10-28",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-11-11",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-11-18",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-11-25",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-12-02",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-12-09",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-12-16",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-12-23",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-12-30",
+    "start_time": "12:30",
+    "end_time": "14:00",
+    "course_name": "Tư tưởng Hồ Chí Minh",
+    "course_code": "SSH1151",
+    "location": "D9-405"
+  },
+  {
+    "date": "2026-09-10",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-17",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-24",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-01",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-08",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-15",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-22",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-29",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-12",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-19",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-26",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-03",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-10",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-17",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-24",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-31",
+    "start_time": "06:45",
+    "end_time": "08:15",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-22",
+    "start_time": "12:30",
+    "end_time": "15:00",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-11-12",
+    "start_time": "12:30",
+    "end_time": "15:00",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-11-26",
+    "start_time": "12:30",
+    "end_time": "15:00",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-12-10",
+    "start_time": "12:30",
+    "end_time": "15:00",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-12-24",
+    "start_time": "12:30",
+    "end_time": "15:00",
+    "course_name": "Mạng máy tính",
+    "course_code": "IT3080",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-10-01",
+    "start_time": "15:00",
+    "end_time": "17:30",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "B1-209"
+  },
+  {
+    "date": "2026-10-15",
+    "start_time": "15:00",
+    "end_time": "17:30",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "B1-209"
+  },
+  {
+    "date": "2026-10-29",
+    "start_time": "15:00",
+    "end_time": "17:30",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "B1-209"
+  },
+  {
+    "date": "2026-11-19",
+    "start_time": "15:00",
+    "end_time": "17:30",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "B1-209"
+  },
+  {
+    "date": "2026-12-03",
+    "start_time": "15:00",
+    "end_time": "17:30",
+    "course_name": "Thuật toán ứng dụng",
+    "course_code": "IT3170",
+    "location": "B1-209"
+  },
+  {
+    "date": "2026-10-02",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-10-23",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-11-20",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-04",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-12-25",
+    "start_time": "06:45",
+    "end_time": "09:10",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "D9-401"
+  },
+  {
+    "date": "2026-09-11",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-09-18",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-09-25",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-10-02",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-10-09",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-10-16",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-10-23",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-10-30",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-11-13",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-11-20",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-11-27",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-12-04",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-12-11",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-12-18",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-12-25",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2027-01-01",
+    "start_time": "14:10",
+    "end_time": "17:30",
+    "course_name": "Nhập môn an toàn thông tin",
+    "course_code": "IT4015",
+    "location": "D9-501"
+  },
+  {
+    "date": "2026-09-11",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-09-18",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-10-02",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-10-09",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-10-23",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-10-30",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-11-13",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-11-20",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-12-04",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-12-11",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2026-12-25",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  },
+  {
+    "date": "2027-01-01",
+    "start_time": "09:20",
+    "end_time": "11:45",
+    "course_name": "Nhập môn kỹ thuật truyền thông",
+    "course_code": "IT4593",
+    "location": "B1-405"
+  }
+]

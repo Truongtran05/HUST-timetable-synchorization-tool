@@ -1,0 +1,11 @@
+#enviroment variables
+.env
+
+#virtual environment
+.venv
+
+#pycache__/
+__pycache__/
+
+#auth
+auth/
