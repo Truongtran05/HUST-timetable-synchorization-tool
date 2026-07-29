@@ -1,11 +1,12 @@
 import json
+from datetime import date
 from config.time_config import time_config, date_config
 
-def main():
+def main(start_date: date):
     timetable = []
     standalize_table = []
     time_config_instance = time_config()
-    date_config_instance = date_config()
+    date_config_instance = date_config(start_date)
     with open("store/timetable.json", "r", encoding="utf-8") as f:
         timetable = json.load(f)
     for item in timetable:
@@ -26,4 +27,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(date.fromisoformat(input("Nhập ngày thứ Hai bắt đầu tuần 1 (YYYY-MM-DD): ").strip()))

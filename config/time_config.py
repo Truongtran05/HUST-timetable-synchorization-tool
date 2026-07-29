@@ -40,8 +40,8 @@ class time_config:
         ]
 
 class date_config:
-    def __init__(self):
-        self.start_date = date(2026, 8, 31)
+    def __init__(self, start_date: date):
+        self.start_date = start_date
 
     def get_date(self, week: int, weekday: str) -> date:
         if week < 1 or weekday not in {f"T{day}" for day in range(2, 9)}:
@@ -55,6 +55,6 @@ if __name__ == "__main__":
     assert time_config_instance.get_time_slot("Tiết 1-3 S") == ["06:45", "09:10"]
     assert time_config_instance.get_time_slot("12:30-15:00 C") == ["12:30", "15:00"]
 
-    config = date_config()
+    config = date_config(date(2026, 9, 7))
     assert config.get_date(1, "T2") == date(2026, 9, 7)
     assert config.get_date(2, "T8") == date(2026, 9, 20)
