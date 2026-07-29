@@ -5,8 +5,8 @@ from scraper.parse_timetable import write_timetable_json
 AUTH_FILE = Path("auth/office365.json")
 OUTPUT_FILE = Path("store/timetable.json")
 TIMETABLE_URL = "https://e.hust.edu.vn/students/learn/class-registration"
-LOGIN_SUCCESS_URL = "https://e.hust.edu.vn/"
-
+HOMEPAGE_URL = "https://e.hust.edu.vn/"
+LOGIN_SUCCESS_URL ="https://e.hust.edu.vn/students/learn/timetable"
 
 def timetable_scrapper(page) -> None:
     if not AUTH_FILE.exists():
@@ -15,9 +15,33 @@ def timetable_scrapper(page) -> None:
             "Hãy chạy login.py trước."
         )
 
-    page.goto(TIMETABLE_URL)
+    page.goto(
+        HOMEPAGE_URL,
+        wait_until="networkidle",
+    )
+    page.wait_for_url(HOMEPAGE_URL, wait_until="networkidle", timeout=10000)
 
-    page.get_by_text("Lịch học dự kiến").first.click()
+    login_button = page.get_by_role("button", name="Đăng nhập").first
+    login_button.click()
+
+    page.wait_for_url(LOGIN_SUCCESS_URL, wait_until="networkidle", timeout=10000)
+
+    page.goto(
+        TIMETABLE_URL,
+        wait_until="networkidle",
+    )
+    page.wait_for_url(TIMETABLE_URL, wait_until="networkidle", timeout=10000)
+
+    if page.url.rstrip("/") != TIMETABLE_URL:
+        raise RuntimeError(
+            f"HUST đã chuyển hướng tới {page.url}. "
+            "Phiên đăng nhập có thể đã hết hạn; hãy xóa "
+            "auth/office365.json rồi chạy lại."
+        )
+
+    nav_button = page.get_by_text("Lịch học dự kiến").first
+    nav_button.click()
+
     table = page.locator("table").filter(
         has=page.get_by_role("columnheader", name="Mã HP", exact=True)
     )
@@ -44,22 +68,6 @@ def open_timetable(wait_for_close: bool = True) -> None:
         )
 
         page = context.new_page()
-
-        page.goto(
-            TIMETABLE_URL,
-            wait_until="networkidle",
-        )
-
-        print("URL hiện tại:", page.url)
-        print("Tiêu đề:", page.title())
-
-        page.get_by_role("button", name="Đăng nhập").click()
-
-        page.wait_for_url(
-            LOGIN_SUCCESS_URL,
-            timeout=180_000,
-        )
-
         timetable_scrapper(page)
 
         if wait_for_close:

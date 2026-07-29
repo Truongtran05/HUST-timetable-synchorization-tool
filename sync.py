@@ -20,7 +20,7 @@ def main() -> None:
         save_login_state()
 
     print("1/3 Đang đọc lịch từ HUST...")
-    open_timetable(wait_for_close=False)
+    open_timetable(wait_for_close=True)
 
     print("2/3 Đang chuẩn hóa lịch...")
     standalize_data(semester_start)
